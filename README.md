@@ -1,4 +1,4 @@
-### 🌍 Language Translator Web Application
+# 🌍 Language Translator Web Application
 ## 📌 Description
 
 This is a web-based Language Translator project developed using HTML, CSS, JavaScript, and Python.
